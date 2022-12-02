@@ -1,4 +1,4 @@
-# EDA-on-Titanic-shipwreck
+# EDA on Titanic Shipwreck
 EDA on the infamous Titanic shipwreck, performed using Python.
 
 Data source: [Kaggle](https://www.kaggle.com/competitions/titanic/data)
